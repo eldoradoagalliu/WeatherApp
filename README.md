@@ -1,3 +1,5 @@
+This is an application that displays the weather and the forecast for the week.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
