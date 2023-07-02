@@ -1,3 +1,6 @@
-This is an application that displays the weather and the forecast for the week build using React and Apis.
+# Weather App
 
-To start this application you need to write on your console the command: npm start
+This project is an application built with React.js & APIs that displays 
+the weather and the forecast for the week.
+
+To start this application you need to write on your console the command: npm start.
